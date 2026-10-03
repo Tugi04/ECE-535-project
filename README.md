@@ -1,4 +1,4 @@
-# ECE-535-project
+# ECE-535-project Time Synchronization Via Sensing
 Tuguldur Erdenekhuu lead role:
 Sensor hardware and software
 
